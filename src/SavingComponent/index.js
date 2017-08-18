@@ -1,4 +1,5 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 
 const SavingComponent = ({ saving, getIsClean, theme }) => {
   const saved = getIsClean() && !saving;

@@ -61,7 +61,8 @@
     "test"
   ],
   "dependencies": {
-    "decorate-component-with-props": "^1.0.2"
+    "decorate-component-with-props": "^1.0.2",
+    "prop-types": "^15.5.10"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.7",

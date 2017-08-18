@@ -5,9 +5,6 @@ node_modules/
 
 npm-debug.log
 
-# compiled files
-lib/*
-
 # test related
 coverage/
 .nyc_output/
